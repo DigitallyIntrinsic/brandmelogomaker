@@ -1,0 +1,9 @@
+{
+    "name": "brand-me-logo-maker",
+    "version": "1.0.0",
+    "description": "Week-10 Challenge",
+    "main": "index.js",
+    "directories": {
+      "example": "examples",
+      "lib": "lib"
+    },

@@ -55,7 +55,7 @@ function promptUser() {
             {
                 type: "input",
                 message:
-                  "Choose text color (Enter color keyword OR a hexadecimal number)",
+                  "Please choose the shape's text color (Enter color keyword OR a hexadecimal number)",
                 name: "textColor",
               },
               {
@@ -67,7 +67,7 @@ function promptUser() {
               {
                 type: "input",
                 message:
-                  "Choose shapes color (Enter color keyword OR a hexadecimal number)",
+                  "Please choose the shape's backgound color (Enter color keyword OR a hexadecimal number)",
                 name: "shapeBackgroundColor",
               },
             ])

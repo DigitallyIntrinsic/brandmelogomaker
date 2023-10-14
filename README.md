@@ -31,7 +31,10 @@ You must install inquirer and jest in order to run this application from the com
 To run this application: open the application using the integrated terminal, install all dependencies (npm i), then type the command node index. Please follow the prompts to answer the questions provided. Once all questions have been answered properly, a message will display to the command line telling you your logo has been generated. Find your new logo in the newly generated SVG file. 
   
 ### Screenshots
+
 ![Application running from the command line](./lib/images/app-test.png)
+
+![Example of created logo](./lib/images/circle-screenshot.png)
 
 
 ## Built With

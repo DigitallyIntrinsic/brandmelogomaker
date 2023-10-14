@@ -42,3 +42,13 @@ function writeToFile(fileName, answers) {
     });
 }
 
+// This function utilizes inquirer to prompt the user to answer questions in the command line and save user input
+function promptUser() {
+    inquirer
+        .prompt([
+            {
+                type: "input",
+                message:
+                    "What text would you like you logo to display? (Enter up to three characters)",
+                name: "text",
+            },

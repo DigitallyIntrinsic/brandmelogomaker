@@ -3,6 +3,10 @@
 
 ## Description
 The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
+
+##Live Screen Recording Demonstration of Application
+
+ https://drive.google.com/file/d/1wsQcM2onZcHE7V3yTU7CVw6rWWElIRl1/view
           
 View the deployed page at [BrandMeLogoMaker](https://github.com/DigitallyIntrinsic/brandmelogomaker).
 ## Contents

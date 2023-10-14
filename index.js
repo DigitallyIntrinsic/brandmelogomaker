@@ -35,3 +35,10 @@ function writeToFile(fileName, answers) {
     svgString += `<text x="150" y="130" text-anchor="middle" font-size="40" fill="${answers.textColor}">${answers.text}</text>`;
     svgString += "</g>";
     svgString += "</svg>";
+
+    // Using file system module to generate svg file 
+    fs.writeFile(fileName, svgString, (err) => {
+        err ? console.log(err) : console.log("Generated logo.svg");
+    });
+}
+

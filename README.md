@@ -6,6 +6,7 @@ The application prompts the user to select a color and shape, provide text for t
           
 View the deployed page at [BrandMeLogoMaker](https://github.com/DigitallyIntrinsic/brandmelogomaker).
 ## Contents
+* [Screen Recording](#screen-recording)
 * [Installation](#installation)
 * [Usage](#usage)
    * [Screenshots](#screenshots)
